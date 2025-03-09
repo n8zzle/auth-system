@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Time Code
 
 https://www.youtube.com/watch?v=1MTyCvS05V4
-1:05:18
+1:23:08
 
 ## Getting Started
 
